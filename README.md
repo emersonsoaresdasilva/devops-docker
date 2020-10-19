@@ -1,8 +1,7 @@
 <h1><img src = "https://miro.medium.com/max/2404/1*JUOITpaBdlrMP9D__-K5Fw.png" width="25%"/></h1>
 
-<strong>Docker</strong> é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. 
-
-Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
+<strong>Docker</strong> é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.
+<p>Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.</p>
 
 <h1>Comandos básicos do Docker:</h1>
 
